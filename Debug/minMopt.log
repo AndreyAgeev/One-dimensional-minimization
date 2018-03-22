@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\андрей\documents\visual studio 2015\projects\minmopt\minmopt\source.cpp(40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\андрей\documents\visual studio 2015\projects\minmopt\minmopt\source.cpp(41): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  minMopt.vcxproj -> C:\Users\Андрей\Documents\Visual Studio 2015\Projects\minMopt\Debug\minMopt.exe
+  minMopt.vcxproj -> C:\Users\Андрей\Documents\Visual Studio 2015\Projects\minMopt\Debug\minMopt.pdb (Full PDB)
